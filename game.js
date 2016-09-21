@@ -14,12 +14,12 @@ function parseText(text) {
     gameOutput.html("Hi there!");
   }else if(text === "Whats your favorite color?") {
     gameOutput.html("blue");
-  } else if(text === "How much do you weigh") {
+  } else if(text === "How much do you weigh?") {
     gameOutput.html("3 pounds");
   } else if(text === "Hi") { 
     counter()
     if (inc < 3)
-      gameOutput.html("Hi, how are you")
+      gameOutput.html("Hi, how are you?")
       else gameOutput.html("ur mum") 
         } else if(text === "What's your favorite class?") {
           gameOutput.html("Anything but programming!");
