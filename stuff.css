@@ -1,0 +1,39 @@
+h1 {
+  text-align: center;
+  background-color:olive;
+  color: white;
+  font-size: 50px;
+}
+
+body {
+  background-image:  url("data:image/png;base64,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");
+  background-size: cover;
+  border: 2px solid clear;
+}
+
+#game-output {
+  color: aliceblue;
+  background-color: blue;
+  text-align: center;
+  position:;
+  left: 215px;
+  bottom: 250px;
+  font-size: 30px;
+  margin: 150px;
+
+}
+
+#blah {
+  text-align: center;
+}
+
+b {
+  color: aliceblue;
+  background-color: blue;
+  text-align: center;
+  position: fixed;
+  left: 200;
+  bottom: 200;
+  opacity:0;
+}
+
